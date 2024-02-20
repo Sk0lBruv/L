@@ -1,1 +1,3 @@
-# Work in progress jsut images for the games for now
+# Work in progress
+
+## Just some images of the games for now.
